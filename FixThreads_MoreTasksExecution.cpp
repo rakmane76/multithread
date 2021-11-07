@@ -8,7 +8,7 @@
 * Point was how to make sure thread is assigned specific resource from pool of resource. 
 *
 */
-// g++ libpq_createIndex.cpp -lboost_thread -lboost_system -lrt -pthread -lpq
+// g++ FixThreads_MoreTasksExecution.cpp -lboost_thread -lboost_system -lrt -pthread -lpq
 //
 /*
 * Problem set is , we need to build indexes and PK for table in postgres DB. 
